@@ -56,8 +56,8 @@ function App() {
               <img src={beaver} className="w-32 h-32 mx-auto" alt="beaver logo" />
             </a>
           </div>
-          <h1 className="text-4xl font-bold">bhvr</h1>
-          <h2 className="text-2xl">Bun + Hono + Vite + React</h2>
+          <h1 className="text-4xl font-bold">bhvr <span className="italic text-green-500">instant</span>!</h1>
+          <h2 className="text-2xl">Bun + Hono + Vite + React + <span className="italic text-green-500">InstantDB</span></h2>
           <p className="mb-4">A typesafe fullstack monorepo</p>
           <div className="mb-4">
             <button
